@@ -1,4 +1,4 @@
-package com.zutjmx.springcloud.msvc.items.msvc_items;
+package com.zutjmx.springcloud.msvc.items;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
